@@ -54,4 +54,4 @@ Este projeto foi desenvolvido para substituir o processo manual por uma **ferram
 ## 👤 Autor
 
 Desenvolvido por **Victor Emanuel**  
-- [Perfil no LinkedIn](https://www.linkedin.com/in/victor-emanuel-developer)
+- [Perfil no LinkedIn](https://www.linkedin.com/in/victor-emanuel-pires/)
