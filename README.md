@@ -8,7 +8,7 @@ Relatório executável em SAP ABAP para inventário, governança e auditoria de 
 
 Em uma demanda de fábrica de software, surgiu a necessidade de inventariar todos os desenvolvimentos criados em um ambiente de cliente. O processo inicial, realizado manualmente objeto por objeto, revelou-se improdutivo, estático e suscetível a erros.
 
-Este projeto foi desenvolvido para substituir o processo manual por uma **ferramenta automatizada de alta performance**, permitindo filtros dinâmicos e extração instantânea direto do dicionário de dados do SAP.
+Este projeto foi desenvolvido para substituir o processo manual por uma **ferramenta automatizada**, permitindo filtros dinâmicos e extração instantânea direto do dicionário de dados do SAP.
 
 ---
 
